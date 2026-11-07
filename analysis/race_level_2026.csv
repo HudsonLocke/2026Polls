@@ -1,0 +1,206 @@
+office,state_po,district,race_label,poll_avg_dem,poll_avg_rep,poll_avg_margin,poll_margin_abs,poll_leader,n_polls_in_average,n_pollsters_in_average,last_poll_end_date,days_last_poll_to_election,poll_average_window,kalshi_dem_prob_eve,kalshi_rep_prob_eve,kalshi_dem_prob_eve_norm,kalshi_favorite,polymarket_dem_prob_eve,polymarket_rep_prob_eve,polymarket_dem_prob_eve_norm,polymarket_favorite,winner_party,winner_source,winner_party_kalshi_settlement,winner_party_polymarket_settlement,poll_leader_correct,kalshi_favorite_correct,polymarket_favorite_correct,close_race_7pt
+Generic ballot,US,,US Generic ballot,,,,,,,,,,,,,,,1.66,0.34,0.83,D,,,,,,,,
+Governor,AK,,AK Governor,50.5,36.17,14.33,14.33,D,6,4,2026-11-01,2,final_14_days,0.8766,0.1217,0.8781,D,,,,,,,,,,,,0
+Governor,AL,,AL Governor,45.0,48.0,-3.0,3.0,R,2,2,2026-10-24,10,final_14_days,0.0686,0.9362,0.0683,R,0.044,0.9535,0.0441,R,R,kalshi_settlement+polymarket,R,R,1,1,1,1
+Governor,AR,,AR Governor,32.0,51.0,-19.0,19.0,R,1,1,2026-10-13,21,single_most_recent_poll,0.0274,0.9748,0.0273,R,0.0205,0.974,0.0206,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Governor,AZ,,AZ Governor,50.0,44.33,5.67,5.67,D,3,3,2026-10-28,6,final_14_days,0.9255,0.0782,0.9221,D,0.935,0.065,0.935,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Governor,CA,,CA Governor,59.14,35.57,23.57,23.57,D,7,7,2026-10-31,3,final_14_days,0.9732,0.0288,0.9713,D,,,,,D,kalshi_settlement,D,,1,1,,0
+Governor,CO,,CO Governor,55.0,36.0,19.0,19.0,D,4,4,2026-11-02,1,final_14_days,0.9648,0.0357,0.9643,D,0.9705,0.03,0.97,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,CT,,CT Governor,54.0,41.0,13.0,13.0,D,1,1,2026-10-31,3,final_14_days,0.9727,0.0317,0.9684,D,0.978,0.022,0.978,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,FL,,FL Governor,43.33,48.67,-5.33,5.33,R,3,3,2026-10-31,3,final_14_days,0.3683,0.6362,0.3667,R,0.365,0.635,0.365,R,R,kalshi_settlement+polymarket,R,R,1,1,1,1
+Governor,GA,,GA Governor,48.5,48.1,0.4,0.4,D,5,5,2026-11-02,1,final_14_days,0.6945,0.3138,0.6888,D,0.705,0.305,0.698,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Governor,IA,,IA Governor,51.33,44.83,6.5,6.5,D,6,6,2026-11-01,2,final_14_days,0.8662,0.1439,0.8575,D,0.865,0.14,0.8607,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Governor,ID,,ID Governor,30.0,49.0,-19.0,19.0,R,1,1,2026-10-22,12,final_14_days,0.0221,0.9807,0.022,R,0.0085,0.993,0.0085,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Governor,IL,,IL Governor,57.75,38.0,19.75,19.75,D,4,3,2026-11-02,1,final_14_days,0.9801,0.0224,0.9777,D,0.9915,0.008,0.992,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,KS,,KS Governor,48.21,48.0,0.21,0.21,D,14,10,2026-11-01,2,final_14_days,,,,,0.265,0.735,0.265,R,,,,,,,,1
+Governor,MA,,MA Governor,55.0,36.0,19.0,19.0,D,1,1,2026-10-31,3,final_14_days,0.977,0.0238,0.9762,D,0.9855,0.0175,0.9826,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,MD,,MD Governor,51.0,24.0,27.0,27.0,D,1,1,2026-09-27,37,single_most_recent_poll,0.9912,0.0103,0.9897,D,0.9955,0.0045,0.9955,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,ME,,ME Governor,51.06,40.22,10.83,10.83,D,18,12,2026-11-01,2,final_14_days,0.9674,0.0387,0.9615,D,0.968,0.029,0.9709,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,MI,,MI Governor,51.19,43.0,8.19,8.19,D,7,7,2026-11-01,2,final_14_days,0.9441,0.0612,0.9391,D,0.949,0.0555,0.9447,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,MN,,MN Governor,52.67,41.11,11.56,11.56,D,9,6,2026-11-01,2,final_14_days,0.9691,0.0347,0.9654,D,0.9815,0.0235,0.9766,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,NE,,NE Governor,42.33,50.0,-7.67,7.67,R,3,3,2026-10-29,5,final_14_days,0.1049,0.9059,0.1038,R,0.085,0.915,0.085,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Governor,NH,,NH Governor,43.5,50.33,-6.83,6.83,R,6,6,2026-11-01,2,final_14_days,,,,,0.0765,0.924,0.0765,R,R,polymarket_settlement,,R,1,,1,1
+Governor,NM,,NM Governor,51.0,44.0,7.0,7.0,D,1,1,2026-11-02,1,final_14_days,0.9429,0.0611,0.9391,D,0.9545,0.044,0.9559,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,NV,,NV Governor,47.75,45.0,2.75,2.75,D,4,4,2026-10-28,6,final_14_days,0.7416,0.2594,0.7409,D,0.785,0.215,0.785,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Governor,NY,,NY Governor,55.0,41.0,14.0,14.0,D,1,1,2026-10-19,15,single_most_recent_poll,0.9636,0.0399,0.9602,D,0.9755,0.0265,0.9736,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,OH,,OH Governor,48.79,44.47,4.32,4.32,D,18,14,2026-11-01,2,final_14_days,0.8248,0.1853,0.8166,D,0.805,0.195,0.805,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Governor,OK,,OK Governor,45.0,49.0,-4.0,4.0,R,1,1,2026-10-13,21,single_most_recent_poll,0.0989,0.9047,0.0985,R,0.08,0.92,0.08,R,R,kalshi_settlement+polymarket,R,R,1,1,1,1
+Governor,OR,,OR Governor,46.0,44.0,2.0,2.0,D,1,1,2026-10-01,33,single_most_recent_poll,0.8168,0.1932,0.8087,D,0.845,0.155,0.845,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Governor,PA,,PA Governor,60.25,36.25,24.0,24.0,D,2,2,2026-11-01,2,final_14_days,0.9837,0.0148,0.9852,D,0.983,0.015,0.985,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Governor,RI,,RI Governor,55.0,8.0,47.0,47.0,D,2,1,2026-10-31,3,final_14_days,0.9779,0.009,0.9909,D,0.9715,,,,D,kalshi_settlement+polymarket,D,D,1,1,,0
+Governor,SC,,SC Governor,38.57,48.0,-9.43,9.43,R,7,6,2026-11-01,2,final_14_days,0.0491,0.9545,0.0489,R,0.046,0.9535,0.046,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Governor,SD,,SD Governor,40.0,54.0,-14.0,14.0,R,2,2,2026-10-26,8,final_14_days,0.0233,0.9816,0.0232,R,0.022,0.976,0.022,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Governor,TN,,TN Governor,32.5,44.5,-12.0,12.0,R,2,2,2026-11-02,1,final_14_days,0.0644,0.9387,0.0642,R,0.043,0.9355,0.0439,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Governor,TX,,TX Governor,46.6,48.49,-1.89,1.89,R,22,17,2026-11-02,1,final_14_days,0.3904,0.6108,0.3899,R,0.335,0.6675,0.3342,R,D,kalshi_settlement+polymarket,D,D,0,0,0,1
+Governor,VT,,VT Governor,48.5,45.75,2.75,2.75,D,4,2,2026-10-31,3,final_14_days,0.3209,0.6822,0.3199,R,0.2085,0.775,0.212,R,R,kalshi_settlement+polymarket,R,R,0,1,1,1
+Governor,WI,,WI Governor,49.0,44.5,4.5,4.5,D,4,3,2026-11-01,2,final_14_days,0.8407,0.1595,0.8405,D,0.85,0.155,0.8458,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+House,AK,,AK House,6.0,47.0,-41.0,41.0,R,1,1,2026-11-01,2,final_14_days,,,,,,,,,,,,,,,,0
+House,AK,1,AK-1,4.6,50.6,-46.0,46.0,R,1,1,2026-08-23,72,single_most_recent_poll,0.0092,0.799,0.0114,R,,,,,,,,,,,,0
+House,AL,2,AL-2,46.0,48.0,-2.0,2.0,R,1,1,2026-10-25,9,final_14_days,,,,,,,,,,,,,,,,1
+House,AR,2,AR-2,48.0,52.0,-4.0,4.0,R,1,1,2026-10-14,20,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,AZ,1,AZ-1,49.0,45.0,4.0,4.0,D,1,1,2026-10-28,6,final_14_days,,,,,,,,,,,,,,,,1
+House,AZ,2,AZ-2,50.0,48.0,2.0,2.0,D,1,1,2026-10-14,20,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,AZ,6,AZ-6,47.0,45.0,2.0,2.0,D,1,1,2026-06-11,145,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,CA,,CA House,59.5,35.0,24.5,24.5,D,2,2,2026-10-24,10,final_14_days,,,,,,,,,,,,,,,,0
+House,CA,1,CA-1,54.8,40.4,14.4,14.4,D,5,2,2026-10-28,6,final_14_days,,,,,,,,,,,,,,,,0
+House,CA,14,CA-14,1.0,9.0,-8.0,8.0,R,1,1,2026-04-04,213,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,CA,22,CA-22,53.2,42.8,10.4,10.4,D,5,2,2026-10-28,6,final_14_days,0.9199,0.0785,0.9214,D,0.925,0.065,0.9343,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+House,CA,3,CA-3,45.0,47.0,-2.0,2.0,R,1,1,2025-07-10,481,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,CA,48,CA-48,49.11,42.89,6.22,6.22,D,9,4,2026-10-28,6,final_14_days,,,,,0.95,0.0415,0.9581,D,D,polymarket_settlement,,D,1,,1,1
+House,CO,3,CO-3,47.0,46.0,1.0,1.0,D,2,2,2026-10-21,13,final_14_days,,,,,,,,,,,,,,,,1
+House,CO,4,CO-4,40.0,45.0,-5.0,5.0,R,1,1,2026-09-24,40,single_most_recent_poll,,,,,0.385,0.59,0.3949,R,,,,,,,,1
+House,CO,5,CO-5,47.0,47.0,0.0,0.0,tie,1,1,2026-10-20,14,final_14_days,,,,,,,,,,,,,,,,1
+House,CO,8,CO-8,47.0,47.0,0.0,0.0,tie,1,1,2026-09-17,47,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,CT,2,CT-2,52.0,33.0,19.0,19.0,D,1,1,2026-10-19,15,single_most_recent_poll,,,,,0.9945,0.0045,0.9955,D,D,polymarket_settlement,,D,1,,1,0
+House,CT,5,CT-5,51.0,45.0,6.0,6.0,D,1,1,2026-10-01,33,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,FL,,FL House,44.0,47.6,-3.6,3.6,R,5,2,2026-10-30,4,final_14_days,,,,,,,,,,,,,,,,1
+House,FL,11,FL-11,42.0,42.0,0.0,0.0,tie,1,1,2026-07-29,97,single_most_recent_poll,,,,,0.1,0.89,0.101,R,R,polymarket_settlement,,R,,,1,1
+House,FL,12,FL-12,40.0,42.0,-2.0,2.0,R,1,1,2026-06-27,129,single_most_recent_poll,,,,,0.13,0.88,0.1287,R,R,polymarket_settlement,,R,1,,1,1
+House,FL,13,FL-13,45.0,48.0,-3.0,3.0,R,1,1,2026-10-23,11,final_14_days,0.3433,0.664,0.3408,R,0.35,0.65,0.35,R,R,kalshi_settlement+polymarket,R,R,1,1,1,1
+House,FL,14,FL-14,48.0,43.0,5.0,5.0,D,1,1,2026-10-14,20,single_most_recent_poll,,,,,0.775,0.225,0.775,D,D,polymarket_settlement,,D,1,,1,1
+House,FL,16,FL-16,39.0,43.0,-4.0,4.0,R,1,1,2026-10-02,32,single_most_recent_poll,,,,,0.245,0.755,0.245,R,R,polymarket_settlement,,R,1,,1,1
+House,FL,2,FL-2,39.0,60.0,-21.0,21.0,R,1,1,2026-07-26,100,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,FL,21,FL-21,38.0,49.0,-11.0,11.0,R,1,1,2026-09-25,39,single_most_recent_poll,,,,,0.091,0.895,0.0923,R,R,polymarket_settlement,,R,1,,1,0
+House,FL,22,FL-22,46.0,44.0,2.0,2.0,D,1,1,2026-08-31,64,single_most_recent_poll,,,,,0.745,0.255,0.745,D,D,polymarket_settlement,,D,1,,1,1
+House,FL,25,FL-25,47.0,42.0,5.0,5.0,D,1,1,2026-10-22,12,final_14_days,,,,,0.835,0.175,0.8267,D,D,polymarket_settlement,,D,1,,1,1
+House,FL,27,FL-27,46.0,47.0,-1.0,1.0,R,1,1,2026-09-13,51,single_most_recent_poll,,,,,0.4,0.615,0.3941,R,,,,,,,,1
+House,FL,28,FL-28,41.0,45.0,-4.0,4.0,R,1,1,2026-03-07,241,single_most_recent_poll,,,,,0.065,0.935,0.065,R,R,polymarket_settlement,,R,1,,1,1
+House,FL,7,FL-7,45.0,45.0,0.0,0.0,tie,1,1,2026-10-19,15,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,FL,8,FL-8,42.0,51.0,-9.0,9.0,R,1,1,2026-07-29,97,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,FL,9,FL-9,44.0,44.0,0.0,0.0,tie,1,1,2026-10-15,19,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,GA,11,GA-11,45.0,48.0,-3.0,3.0,R,1,1,2026-09-11,53,single_most_recent_poll,,,,,0.041,0.959,0.041,R,R,polymarket_settlement,,R,1,,1,1
+House,GA,14,GA-14,,,,,,,,,,,,,,,0.024,0.975,0.024,R,R,polymarket_settlement,,R,,,1,
+House,GA,3,GA-3,45.0,50.0,-5.0,5.0,R,1,1,2026-10-07,27,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,GA,7,GA-7,47.0,45.0,2.0,2.0,D,1,1,2026-10-09,25,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,IA,,IA House,46.0,48.0,-2.0,2.0,R,1,1,2026-10-19,15,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,IA,1,IA-1,45.0,29.0,16.0,16.0,D,1,1,2026-10-02,32,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,IA,2,IA-2,50.0,47.0,3.0,3.0,D,1,1,2026-10-14,20,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,IA,3,IA-3,43.0,44.0,-1.0,1.0,R,1,1,2026-03-14,234,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,ID,1,ID-1,26.0,52.0,-26.0,26.0,R,1,1,2026-10-22,12,final_14_days,,,,,0.0095,0.992,0.0095,R,R,polymarket_settlement,,R,1,,1,0
+House,ID,2,ID-2,31.0,46.0,-15.0,15.0,R,1,1,2026-10-22,12,final_14_days,,,,,,,,,,,,,,,,0
+House,IL,4,IL-4,34.0,15.0,19.0,19.0,D,1,1,2026-08-04,91,single_most_recent_poll,,,,,0.9805,0.0085,0.9914,D,D,polymarket_settlement,,D,1,,1,0
+House,KS,2,KS-2,46.0,49.0,-3.0,3.0,R,1,1,2026-10-20,14,final_14_days,,,,,,,,,,,,,,,,1
+House,KY,6,KY-6,47.0,41.0,6.0,6.0,D,1,1,2026-10-20,14,final_14_days,,,,,,,,,,,,,,,,1
+House,LA,6,LA-6,19.0,6.0,13.0,13.0,D,1,1,2026-08-13,82,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,MD,1,MD-1,39.0,52.0,-13.0,13.0,R,1,1,2026-07-27,99,single_most_recent_poll,,,,,0.135,0.865,0.135,R,R,polymarket_settlement,,R,1,,1,0
+House,ME,,ME House,55.0,42.0,13.0,13.0,D,1,1,2026-11-01,2,final_14_days,,,,,,,,,,,,,,,,0
+House,ME,1,ME-1,65.0,32.0,33.0,33.0,D,1,1,2026-10-31,3,final_14_days,,,,,,,,,,,,,,,,0
+House,ME,2,ME-2,47.0,52.0,-5.0,5.0,R,1,1,2026-10-31,3,final_14_days,,,,,,,,,,,,,,,,1
+House,MI,,MI House,54.0,44.0,10.0,10.0,D,1,1,2026-10-18,16,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,MI,10,MI-10,42.0,47.0,-5.0,5.0,R,1,1,2026-10-23,11,final_14_days,0.7529,0.2496,0.751,D,0.755,0.245,0.755,D,D,kalshi_settlement+polymarket,D,D,0,1,1,1
+House,MI,13,MI-13,69.0,19.0,50.0,50.0,D,1,1,2026-10-30,4,final_14_days,,,,,0.985,0.013,0.987,D,D,polymarket_settlement,,D,1,,1,0
+House,MI,4,MI-4,44.0,47.0,-3.0,3.0,R,1,1,2026-10-23,11,final_14_days,,,,,0.595,0.405,0.595,D,D,polymarket_settlement,,D,0,,1,1
+House,MI,7,MI-7,53.0,45.0,8.0,8.0,D,1,1,2026-10-14,20,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,MN,,MN House,55.0,38.0,17.0,17.0,D,1,1,2026-10-26,8,final_14_days,,,,,,,,,,,,,,,,0
+House,MN,1,MN-1,43.0,43.0,0.0,0.0,tie,1,1,2026-10-14,20,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,MN,2,MN-2,52.0,40.0,12.0,12.0,D,1,1,2026-09-13,51,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,MN,8,MN-8,43.5,48.5,-5.0,5.0,R,2,1,2026-10-26,8,final_14_days,,,,,,,,,,,,,,,,1
+House,MO,2,MO-2,48.0,47.0,1.0,1.0,D,2,2,2026-11-01,2,final_14_days,,,,,,,,,,,,,,,,1
+House,MS,,MS House,42.0,52.0,-10.0,10.0,R,1,1,2026-08-15,80,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,MT,1,MT-1,48.0,43.0,5.0,5.0,D,3,3,2026-11-01,2,final_14_days,,,,,,,,,,,,,,,,1
+House,MT,2,MT-2,18.0,29.0,-11.0,11.0,R,1,1,2026-10-21,13,final_14_days,,,,,,,,,,,,,,,,0
+House,NC,,NC House,50.0,46.0,4.0,4.0,D,1,1,2026-10-02,32,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,NC,1,NC-1,45.0,44.0,1.0,1.0,D,1,1,2026-10-23,11,final_14_days,,,,,,,,,,,,,,,,1
+House,NC,10,NC-10,38.0,51.0,-13.0,13.0,R,1,1,2026-03-12,236,single_most_recent_poll,,,,,0.0455,0.95,0.0457,R,,,,,,,,0
+House,NC,11,NC-11,50.0,44.0,6.0,6.0,D,1,1,2026-10-23,11,final_14_days,,,,,0.855,0.135,0.8636,D,D,polymarket_settlement,,D,1,,1,1
+House,NC,14,NC-14,40.0,48.0,-8.0,8.0,R,1,1,2026-03-12,236,single_most_recent_poll,,,,,0.205,0.79,0.206,R,D,polymarket_settlement,,D,0,,0,0
+House,NC,3,NC-3,41.0,44.0,-3.0,3.0,R,1,1,2026-08-02,93,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,NC,7,NC-7,43.0,49.0,-6.0,6.0,R,1,1,2026-08-20,75,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,NC,9,NC-9,42.0,46.0,-4.0,4.0,R,1,1,2026-10-20,14,final_14_days,,,,,,,,,,,,,,,,1
+House,NE,,NE House,43.0,45.0,-2.0,2.0,R,1,1,2026-10-18,16,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,NE,1,NE-1,45.0,46.0,-1.0,1.0,R,1,1,2026-10-20,14,final_14_days,,,,,,,,,,,,,,,,1
+House,NE,2,NE-2,50.0,38.0,12.0,12.0,D,1,1,2026-10-05,29,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,NH,,NH House,52.0,43.0,9.0,9.0,D,1,1,2026-10-20,14,final_14_days,,,,,,,,,,,,,,,,0
+House,NH,1,NH-1,49.33,42.33,7.0,7.0,D,3,3,2026-10-31,3,final_14_days,,,,,0.955,0.0455,0.9545,D,D,polymarket_settlement,,D,1,,1,0
+House,NH,2,NH-2,55.0,39.5,15.5,15.5,D,2,2,2026-10-31,3,final_14_days,,,,,0.962,0.043,0.9572,D,D,polymarket_settlement,,D,1,,1,0
+House,NJ,11,NJ-11,53.0,36.0,17.0,17.0,D,1,1,2026-03-10,238,single_most_recent_poll,,,,,0.9855,0.014,0.986,D,D,polymarket_settlement,,D,1,,1,0
+House,NJ,2,NJ-2,40.0,50.0,-10.0,10.0,R,1,1,2026-10-10,24,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,NJ,7,NJ-7,47.0,42.0,5.0,5.0,D,1,1,2026-09-12,52,single_most_recent_poll,,,,,0.935,0.065,0.935,D,D,polymarket_settlement,,D,1,,1,1
+House,NM,1,NM-1,53.0,35.0,18.0,18.0,D,1,1,2026-10-09,25,single_most_recent_poll,,,,,0.9725,0.0165,0.9833,D,D,polymarket_settlement,,D,1,,1,0
+House,NM,2,NM-2,48.0,44.0,4.0,4.0,D,1,1,2026-10-09,25,single_most_recent_poll,,,,,0.9215,0.072,0.9275,D,D,polymarket_settlement,,D,1,,1,1
+House,NM,3,NM-3,53.0,39.0,14.0,14.0,D,1,1,2026-10-09,25,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,NV,,NV House,48.0,33.0,15.0,15.0,D,1,1,2026-09-30,34,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,NV,2,NV-2,44.0,46.0,-2.0,2.0,R,1,1,2026-10-13,21,single_most_recent_poll,,,,,0.355,0.63,0.3604,R,D,polymarket_settlement,,D,0,,0,1
+House,NV,3,NV-3,49.0,42.0,7.0,7.0,D,1,1,2026-10-23,11,final_14_days,,,,,,,,,,,,,,,,0
+House,NY,,NY House,56.5,41.5,15.0,15.0,D,2,1,2026-10-25,9,final_14_days,,,,,,,,,,,,,,,,0
+House,NY,1,NY-1,38.0,41.0,-3.0,3.0,R,1,1,2025-12-11,327,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,NY,17,NY-17,48.0,46.0,2.0,2.0,D,1,1,2026-10-23,11,final_14_days,0.5731,0.4406,0.5654,D,0.665,0.345,0.6584,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+House,NY,18,NY-18,52.0,35.0,17.0,17.0,D,1,1,2026-09-30,34,single_most_recent_poll,0.97,0.0274,0.9725,D,0.965,0.026,0.9738,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+House,NY,21,NY-21,44.0,46.0,-2.0,2.0,R,1,1,2026-10-13,21,single_most_recent_poll,,,,,0.345,0.655,0.345,R,R,polymarket_settlement,,R,1,,1,1
+House,NY,23,NY-23,35.0,52.0,-17.0,17.0,R,1,1,2026-09-23,41,single_most_recent_poll,,,,,0.0105,0.9875,0.0105,R,R,polymarket_settlement,,R,1,,1,0
+House,NY,4,NY-4,46.0,41.0,5.0,5.0,D,1,1,2026-02-17,259,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,OH,,OH House,51.0,46.0,5.0,5.0,D,1,1,2026-10-18,16,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,OH,1,OH-1,47.33,41.67,5.67,5.67,D,3,2,2026-10-23,11,final_14_days,,,,,,,,,,,,,,,,1
+House,OH,10,OH-10,47.0,44.0,3.0,3.0,D,1,1,2026-10-13,21,single_most_recent_poll,,,,,0.31,0.695,0.3085,R,D,polymarket_settlement,,D,1,,0,1
+House,OH,15,OH-15,48.0,45.0,3.0,3.0,D,1,1,2026-10-12,22,single_most_recent_poll,,,,,0.37,0.61,0.3776,R,D,polymarket_settlement,,D,1,,0,1
+House,OH,7,OH-7,43.0,44.0,-1.0,1.0,R,1,1,2026-08-10,85,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,OH,9,OH-9,49.0,43.0,6.0,6.0,D,1,1,2026-10-23,11,final_14_days,,,,,,,,,,,,,,,,1
+House,OK,5,OK-5,43.0,48.0,-5.0,5.0,R,1,1,2026-09-20,44,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,PA,,PA House,48.0,43.0,5.0,5.0,D,1,1,2026-10-18,16,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,PA,10,PA-10,,,,,,,,,,,0.8328,0.1783,0.8237,D,0.815,0.18,0.8191,D,D,kalshi_settlement+polymarket,D,D,,1,1,
+House,PA,7,PA-7,49.0,44.0,5.0,5.0,D,2,2,2026-10-23,11,final_14_days,,,,,,,,,,,,,,,,1
+House,RI,1,RI-1,54.0,26.0,28.0,28.0,D,1,1,2026-10-11,23,single_most_recent_poll,,,,,0.9755,0.021,0.9789,D,D,polymarket_settlement,,D,1,,1,0
+House,RI,2,RI-2,55.0,39.0,16.0,16.0,D,1,1,2026-10-11,23,single_most_recent_poll,,,,,0.9635,0.0305,0.9693,D,D,polymarket_settlement,,D,1,,1,0
+House,SC,,SC House,41.0,50.0,-9.0,9.0,R,1,1,2026-10-26,8,final_14_days,,,,,,,,,,,,,,,,0
+House,SC,1,SC-1,47.0,45.0,2.0,2.0,D,1,1,2026-10-22,12,final_14_days,,,,,,,,,,,,,,,,1
+House,SC,7,SC-7,37.0,41.0,-4.0,4.0,R,1,1,2026-07-28,98,single_most_recent_poll,,,,,0.04,0.959,0.04,R,R,polymarket_settlement,,R,1,,1,1
+House,SD,,SD House,32.0,60.0,-28.0,28.0,R,1,1,2026-10-14,20,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,SD,1,SD-1,32.0,60.0,-28.0,28.0,R,1,1,2026-10-14,20,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,TN,5,TN-5,41.0,46.0,-5.0,5.0,R,1,1,2026-10-01,33,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,TN,9,TN-9,44.0,48.0,-4.0,4.0,R,1,1,2026-09-03,61,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,TX,,TX House,43.4,48.4,-5.0,5.0,R,5,2,2026-10-21,13,final_14_days,,,,,,,,,,,,,,,,1
+House,TX,10,TX-10,41.0,48.0,-7.0,7.0,R,1,1,2026-09-22,42,single_most_recent_poll,,,,,0.08,0.925,0.0796,R,R,polymarket_settlement,,R,1,,1,0
+House,TX,15,TX-15,51.0,44.0,7.0,7.0,D,1,1,2026-10-16,18,single_most_recent_poll,0.8902,0.1055,0.894,D,0.885,0.115,0.885,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+House,TX,2,TX-2,37.0,46.0,-9.0,9.0,R,1,1,2026-10-04,30,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,TX,23,TX-23,46.0,46.0,0.0,0.0,tie,1,1,2026-10-07,27,single_most_recent_poll,,,,,0.455,0.545,0.455,R,D,polymarket_settlement,,D,,,0,1
+House,TX,28,TX-28,54.0,34.0,20.0,20.0,D,1,1,2026-10-13,21,single_most_recent_poll,0.9181,0.0644,0.9345,D,0.92,0.075,0.9246,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+House,TX,34,TX-34,50.0,43.0,7.0,7.0,D,1,1,2026-10-19,15,single_most_recent_poll,0.8929,0.1211,0.8806,D,0.895,0.1,0.8995,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+House,TX,35,TX-35,47.0,48.0,-1.0,1.0,R,1,1,2026-10-19,15,single_most_recent_poll,0.742,0.2483,0.7493,D,0.725,0.265,0.7323,D,D,kalshi_settlement+polymarket,D,D,0,1,1,1
+House,TX,9,TX-9,47.0,48.0,-1.0,1.0,R,1,1,2026-10-22,12,final_14_days,,,,,,,,,,,,,,,,1
+House,UT,,UT House,39.0,50.0,-11.0,11.0,R,1,1,2026-10-20,14,final_14_days,,,,,,,,,,,,,,,,0
+House,UT,1,UT-1,63.0,21.0,42.0,42.0,D,1,1,2026-09-10,54,single_most_recent_poll,0.9771,0.036,0.9645,D,,,,,D,kalshi_settlement,D,,1,1,,0
+House,UT,2,UT-2,34.0,39.0,-5.0,5.0,R,1,1,2026-09-24,40,single_most_recent_poll,0.0554,0.9451,0.0554,R,,,,,R,kalshi_settlement,R,,1,1,,1
+House,UT,3,UT-3,26.0,45.0,-19.0,19.0,R,1,1,2026-09-15,49,single_most_recent_poll,0.0186,0.982,0.0186,R,,,,,R,kalshi_settlement,R,,1,1,,0
+House,UT,4,UT-4,33.0,42.0,-9.0,9.0,R,1,1,2026-09-17,47,single_most_recent_poll,,,,,0.036,0.956,0.0363,R,R,polymarket_settlement,,R,1,,1,0
+House,VA,1,VA-1,48.0,46.33,1.67,1.67,D,3,2,2026-10-25,9,final_14_days,,,,,0.645,0.355,0.645,D,D,polymarket_settlement,,D,1,,1,1
+House,VA,2,VA-2,46.0,43.0,3.0,3.0,D,1,1,2026-10-10,24,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,VA,5,VA-5,46.0,51.0,-5.0,5.0,R,1,1,2026-09-28,36,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,VA,6,VA-6,29.0,59.0,-30.0,30.0,R,1,1,2026-09-30,34,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,VT,,VT House,66.0,30.0,36.0,36.0,D,1,1,2026-09-21,43,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,VT,1,VT-1,66.0,30.0,36.0,36.0,D,1,1,2026-09-21,43,single_most_recent_poll,,,,,,,,,,,,,,,,0
+House,WA,3,WA-3,45.0,44.0,1.0,1.0,D,1,1,2026-10-21,13,final_14_days,,,,,,,,,,,,,,,,1
+House,WA,4,WA-4,25.0,7.0,18.0,18.0,D,1,1,2026-02-05,271,single_most_recent_poll,,,,,0.065,0.935,0.065,R,R,polymarket_settlement,,R,0,,1,0
+House,WA,5,WA-5,53.0,47.0,6.0,6.0,D,1,1,2026-05-25,162,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,WI,1,WI-1,49.0,48.0,1.0,1.0,D,1,1,2026-10-01,33,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,WI,3,WI-3,50.0,46.0,4.0,4.0,D,1,1,2026-06-25,131,single_most_recent_poll,,,,,,,,,,,,,,,,1
+House,WI,6,WI-6,39.0,61.0,-22.0,22.0,R,1,1,2026-05-28,159,single_most_recent_poll,,,,,,,,,,,,,,,,0
+Senate,AK,,AK Senate,48.88,47.12,1.75,1.75,D,8,4,2026-11-01,2,final_14_days,0.7104,0.2952,0.7064,D,0.745,0.265,0.7376,D,,,,,,,,1
+Senate,AL,,AL Senate,40.0,48.0,-8.0,8.0,R,2,1,2026-10-24,10,final_14_days,0.0205,0.9844,0.0204,R,0.0145,0.987,0.0145,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Senate,AR,,AR Senate,,,,,,,,,,,0.0432,0.9602,0.0431,R,0.035,0.9665,0.0349,R,R,kalshi_settlement+polymarket,R,R,,1,1,
+Senate,CO,,CO Senate,57.33,37.0,20.33,20.33,D,3,3,2026-11-02,1,final_14_days,0.9903,0.0126,0.9874,D,0.993,0.003,0.997,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,FL,,FL Senate,43.75,49.75,-6.0,6.0,R,4,4,2026-10-31,3,final_14_days,0.151,0.8556,0.15,R,0.095,0.905,0.095,R,R,kalshi_settlement+polymarket,R,R,1,1,1,1
+Senate,GA,,GA Senate,54.0,44.0,10.0,10.0,D,3,3,2026-11-02,1,final_14_days,0.9694,0.034,0.9661,D,0.9695,0.0285,0.9714,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,IA,,IA Senate,47.12,46.88,0.25,0.25,D,8,8,2026-11-01,2,final_14_days,0.5084,0.4998,0.5043,D,0.425,0.585,0.4208,R,D,kalshi_settlement+polymarket,D,D,1,1,0,1
+Senate,ID,,ID Senate,13.0,43.0,-30.0,30.0,R,1,1,2026-07-30,96,single_most_recent_poll,0.0036,0.9552,0.0038,R,,0.9625,,,R,kalshi_settlement+polymarket,R,R,1,1,,0
+Senate,IL,,IL Senate,56.0,42.33,13.67,13.67,D,3,2,2026-11-02,1,final_14_days,0.9895,0.0159,0.9842,D,0.993,0.0085,0.9915,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,KS,,KS Senate,49.92,44.62,5.31,5.31,D,13,8,2026-11-01,2,final_14_days,0.6225,0.3806,0.6206,D,0.525,0.475,0.525,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Senate,KY,,KY Senate,40.0,49.0,-9.0,9.0,R,1,1,2026-08-27,68,single_most_recent_poll,,,,,0.024,0.9765,0.024,R,R,polymarket_settlement,,R,1,,1,0
+Senate,LA,,LA Senate,46.0,46.0,0.0,0.0,tie,2,2,2026-10-31,3,final_14_days,0.1369,0.8647,0.1367,R,0.105,0.905,0.104,R,R,kalshi_settlement+polymarket,R,R,,1,1,1
+Senate,MA,,MA Senate,53.0,32.0,21.0,21.0,D,1,1,2026-10-31,3,final_14_days,0.99,0.0118,0.9882,D,0.9945,0.006,0.994,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,ME,,ME Senate,50.43,45.86,4.57,4.57,D,7,7,2026-11-01,2,final_14_days,0.7222,0.2824,0.7189,D,0.705,0.295,0.705,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Senate,MI,,MI Senate,50.36,44.27,6.09,6.09,D,8,8,2026-11-01,2,final_14_days,0.7831,0.2235,0.778,D,0.745,0.255,0.745,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Senate,MN,,MN Senate,49.92,43.42,6.5,6.5,D,12,8,2026-11-01,2,final_14_days,0.9207,0.0828,0.9175,D,0.935,0.075,0.9257,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Senate,MS,,MS Senate,41.0,47.0,-6.0,6.0,R,1,1,2026-08-15,80,single_most_recent_poll,0.1618,0.8395,0.1616,R,0.11,0.885,0.1106,R,,,,,,,,1
+Senate,MT,,MT Senate,15.5,34.0,-18.5,18.5,R,2,2,2026-10-23,11,final_14_days,0.0076,0.9088,0.0083,R,0.001,0.905,0.0011,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Senate,NC,,NC Senate,52.84,42.49,10.35,10.35,D,16,9,2026-11-01,2,final_14_days,0.9735,0.0326,0.9676,D,0.977,0.024,0.976,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,NE,,NE Senate,47.0,50.0,-3.0,3.0,R,1,1,2026-10-18,16,single_most_recent_poll,0.0061,0.689,0.0088,R,,0.715,,,R,kalshi_settlement+polymarket,R,R,1,1,,1
+Senate,NH,,NH Senate,50.0,43.0,7.0,7.0,D,1,1,2026-10-20,14,final_14_days,0.9419,0.0632,0.9371,D,0.935,0.065,0.935,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,NM,,NM Senate,56.0,37.0,19.0,19.0,D,1,1,2026-11-02,1,final_14_days,0.9855,0.0172,0.9828,D,0.996,0.006,0.994,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,OH,,OH Senate,47.87,45.11,2.76,2.76,D,42,16,2026-11-01,2,final_14_days,0.7031,0.2989,0.7017,D,0.735,0.265,0.735,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Senate,OK,,OK Senate,27.0,48.0,-21.0,21.0,R,1,1,2026-08-06,89,single_most_recent_poll,0.0249,0.9848,0.0247,R,0.006,0.9955,0.006,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Senate,RI,,RI Senate,63.0,32.0,31.0,31.0,D,1,1,2026-10-31,3,final_14_days,0.991,0.0101,0.9899,D,0.991,0.007,0.993,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0
+Senate,SC,,SC Senate,46.4,47.53,-1.13,1.13,R,3,3,2026-10-30,4,final_14_days,0.3222,0.6719,0.3241,R,0.255,0.745,0.255,R,D,kalshi_settlement+polymarket,D,D,0,0,0,1
+Senate,SD,,SD Senate,31.0,56.0,-25.0,25.0,R,1,1,2026-05-30,157,single_most_recent_poll,0.0041,0.9473,0.0043,R,,0.9475,,,R,kalshi_settlement+polymarket,R,R,1,1,,0
+Senate,TN,,TN Senate,37.0,57.0,-20.0,20.0,R,1,1,2026-11-02,1,final_14_days,0.0208,0.9789,0.0208,R,0.022,0.9815,0.0219,R,R,kalshi_settlement+polymarket,R,R,1,1,1,0
+Senate,TX,,TX Senate,48.78,45.41,3.38,3.38,D,25,20,2026-11-02,1,final_14_days,0.7349,0.2723,0.7296,D,0.705,0.295,0.705,D,D,kalshi_settlement+polymarket,D,D,1,1,1,1
+Senate,VA,,VA Senate,51.0,33.0,18.0,18.0,D,1,1,2026-06-16,140,single_most_recent_poll,0.9904,0.0114,0.9886,D,0.9925,0.0075,0.9925,D,D,kalshi_settlement+polymarket,D,D,1,1,1,0

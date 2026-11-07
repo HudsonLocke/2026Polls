@@ -1,0 +1,485 @@
+pollster,questions,senate,governor,house,generic_ballot,sources,partisan_lean,first_poll,last_poll
+YouGov,205,26,28,0,151,Silver Bulletin; VoteHub; Wikipedia,D,2025-02-18,2026-10-30
+Public Policy Polling,187,76,24,85,2,Silver Bulletin; VoteHub; Wikipedia,D; DEM,2024-12-05,2026-10-26
+Emerson College,181,72,70,22,17,Silver Bulletin; VoteHub; Wikipedia,,2025-01-08,2026-11-01
+University of New Hampshire,169,58,75,36,0,VoteHub; Wikipedia,,2025-02-16,2026-10-31
+Morning Consult,138,1,1,2,134,Silver Bulletin; VoteHub; Wikipedia,D,2025-01-26,2026-11-01
+Quantus Insights,136,75,26,10,25,Silver Bulletin; VoteHub; Wikipedia,R; REP,2025-01-23,2026-10-28
+co/efficient,94,36,36,19,3,Silver Bulletin; VoteHub; Wikipedia,R; REP,2023-09-10,2026-10-28
+Data for Progress,87,22,23,40,2,Silver Bulletin; VoteHub; Wikipedia,D; DEM,2025-03-07,2026-10-27
+Change Research,81,32,21,14,14,Silver Bulletin; VoteHub; Wikipedia,D; DEM,2025-03-13,2026-10-21
+Cygnal,78,22,24,3,29,Silver Bulletin; VoteHub; Wikipedia,DEM; R; REP,2024-10-28,2026-10-24
+Big Data Poll,68,22,14,16,16,VoteHub; Wikipedia,R,2025-05-05,2026-10-30
+Alaska Survey Research,67,29,24,14,0,VoteHub; Wikipedia,,2023-04-25,2026-10-29
+Echelon Insights,64,19,19,0,26,Silver Bulletin; VoteHub; Wikipedia,R,2025-02-13,2026-10-23
+Impact Research,64,18,11,35,0,VoteHub; Wikipedia,D; DEM,2025-06-22,2026-10-10
+Ipsos,63,0,0,0,63,Silver Bulletin; VoteHub,,2024-12-15,2026-11-02
+McLaughlin & Associates,62,14,9,9,30,Silver Bulletin; VoteHub; Wikipedia,R; REP,2024-12-16,2026-10-20
+Tavern Research,62,31,4,26,1,Silver Bulletin; VoteHub; Wikipedia,D,2025-10-30,2026-09-17
+Glengariff Group,59,25,34,0,0,VoteHub; Wikipedia,,2025-05-08,2026-07-24
+InsiderAdvantage,55,42,13,0,0,VoteHub; Wikipedia,R,2025-10-15,2026-11-02
+Trafalgar Group,54,39,14,1,0,VoteHub; Wikipedia,R; REP,2024-08-14,2026-11-01
+SurveyUSA,54,6,32,16,0,VoteHub; Wikipedia,DEM,2025-03-04,2026-10-24
+New York Times / Siena University,49,20,22,7,0,VoteHub; Wikipedia,,2026-06-27,2026-11-01
+Global Strategy Group,46,12,10,23,1,Silver Bulletin; VoteHub; Wikipedia,D,2025-06-02,2026-10-21
+GBAO,44,13,7,20,4,Silver Bulletin; VoteHub; Wikipedia,D; DEM,2025-04-28,2026-10-08
+GQR,44,17,4,23,0,VoteHub; Wikipedia,D; DEM,2025-10-20,2026-10-04
+Marist University,43,15,13,10,5,Silver Bulletin; VoteHub; Wikipedia,,2025-11-13,2026-10-25
+TIPP Insights,41,15,20,1,5,Silver Bulletin; VoteHub; Wikipedia,R; REP,2025-08-01,2026-10-30
+Tulchin Research,41,11,4,26,0,VoteHub; Wikipedia,D; DEM,2024-08-12,2026-10-14
+Stratus Intelligence,39,32,5,2,0,VoteHub; Wikipedia,R; REP,2025-03-25,2026-09-24
+Targoz Market Research,38,5,32,0,1,Silver Bulletin; VoteHub; Wikipedia,,2025-04-22,2026-11-02
+Noble Predictive Insights,38,0,31,1,6,Silver Bulletin; VoteHub; Wikipedia,,2025-02-13,2026-10-28
+Rasmussen Reports,37,16,5,0,16,Silver Bulletin; VoteHub; Wikipedia,R; REP,2025-05-16,2026-10-31
+Saint Anselm College,37,15,7,15,0,Wikipedia,,2025-08-27,2026-10-20
+Survey 160,35,17,16,0,2,VoteHub; Wikipedia,,2025-11-12,2026-11-01
+Bowling Green State University / YouGov,35,16,19,0,0,VoteHub; Wikipedia,,2025-02-21,2026-10-09
+Siena College,35,0,35,0,0,VoteHub; Wikipedia,,2024-12-05,2026-06-26
+Lake Research Partners,34,2,10,22,0,VoteHub; Wikipedia,D; DEM,2025-06-09,2026-10-30
+Ragnar Research Partners,34,11,0,23,0,VoteHub; Wikipedia,R; REP,2025-04-15,2026-06-16
+Suffolk University,33,17,16,0,0,VoteHub; Wikipedia,,2025-10-21,2026-10-26
+Harper Polling,33,21,2,10,0,VoteHub; Wikipedia,R,2025-03-23,2026-10-20
+Beacon Research (D)/ Shaw & Co. Research,31,17,14,0,0,VoteHub; Wikipedia,D/R,2026-06-01,2026-10-19
+"Fabrizio, Lee & Associates",31,11,14,5,1,VoteHub; Wikipedia,R; REP,2025-01-16,2026-08-06
+RMG Research,30,2,5,0,23,Silver Bulletin; VoteHub; Wikipedia,R,2025-01-16,2026-10-13
+UMass Amherst / YouGov,29,13,16,0,0,VoteHub; Wikipedia,,2025-02-20,2026-10-12
+Pulse Decision Science,29,12,12,5,0,VoteHub; Wikipedia,R; REP,2025-04-09,2026-09-27
+University of Southern California,28,0,0,28,0,Wikipedia,,2026-10-19,2026-11-01
+Peak Insights,28,21,1,6,0,VoteHub; Wikipedia,R; REP,2025-10-20,2026-10-12
+Mitchell Research & Communications,27,15,12,0,0,VoteHub; Wikipedia,,2025-03-13,2026-10-27
+Hart Research,27,9,5,13,0,Wikipedia,D,2025-09-22,2026-10-25
+Victory Insights,27,10,7,10,0,VoteHub; Wikipedia,R,2024-04-06,2026-10-22
+The Public Sentiment Institute,27,12,10,1,4,VoteHub; Wikipedia,REP,2026-02-28,2026-07-29
+RedBox Research,26,6,3,17,0,VoteHub; Wikipedia,D; DEM,2026-09-13,2026-10-31
+Marquette University,26,0,26,0,0,Wikipedia,,2025-10-22,2026-10-22
+AtlasIntel,24,8,9,1,6,Silver Bulletin; VoteHub; Wikipedia,,2025-05-27,2026-11-01
+ActiVote,24,12,12,0,0,VoteHub; Wikipedia,,2026-10-14,2026-10-31
+Concord Public Opinion Partners,24,7,15,2,0,VoteHub; Wikipedia,D; DEM,2025-10-18,2026-10-26
+University of North Florida,23,11,12,0,0,VoteHub; Wikipedia,DEM,2023-11-04,2026-10-19
+University of Houston / Texas Southern University,23,23,0,0,0,VoteHub; Wikipedia,,2025-10-01,2025-10-01
+Remington Research Group,22,15,2,5,0,VoteHub; Wikipedia,R,2024-12-20,2026-10-25
+Blueprint Polling,22,8,2,12,0,VoteHub; Wikipedia,D; DEM,2025-09-09,2026-10-24
+Fabrizio Ward (R)/ Impact Research,22,9,8,5,0,VoteHub; Wikipedia,D/R,2026-06-16,2026-09-22
+CNN/SSRS,21,6,6,0,9,Silver Bulletin; VoteHub,,2025-09-01,2026-10-27
+Verasight,21,0,0,0,21,Silver Bulletin; VoteHub,,2025-05-06,2026-10-19
+Quinnipiac University,21,0,13,0,8,Silver Bulletin; VoteHub; Wikipedia,,2025-09-15,2026-10-19
+Marquette University Law School,21,0,6,0,15,Silver Bulletin; VoteHub,,2025-11-12,2026-09-23
+Research Co.,20,7,11,0,2,Silver Bulletin; VoteHub; Wikipedia,,2025-11-03,2026-11-02
+The New York Times/Siena University,20,6,11,2,1,VoteHub,,2026-05-15,2026-11-01
+GrayHouse,20,4,12,1,3,Silver Bulletin; VoteHub; Wikipedia,R; REP,2025-04-24,2026-10-31
+The Bullfinch Group,20,2,0,8,10,Silver Bulletin; VoteHub; Wikipedia,,2025-11-25,2026-09-06
+J.L. Partners,20,7,5,2,6,Silver Bulletin; VoteHub; Wikipedia,R; REP,2025-06-06,2026-08-18
+Public Opinion Strategies,19,8,5,4,2,Silver Bulletin; VoteHub; Wikipedia,R,2025-03-02,2026-08-20
+Mitchell Research,19,11,8,0,0,Wikipedia,,2025-03-13,2026-07-29
+UT Tyler,19,15,4,0,0,Wikipedia,,2025-06-07,2026-02-22
+Texas Public Opinion Research,18,11,6,1,0,VoteHub; Wikipedia,D,2025-08-29,2026-10-18
+Focaldata,17,0,0,0,17,Silver Bulletin; VoteHub,,2026-01-26,2026-11-01
+The Argument/Verasight,17,0,0,0,17,Silver Bulletin; VoteHub,,2025-08-17,2026-10-23
+Clarity Campaign Labs,17,0,1,1,15,Silver Bulletin; VoteHub; Wikipedia,D; DEM,2025-02-06,2026-10-21
+Beacon Research/Shaw & Co. Research,17,6,8,0,3,Silver Bulletin; VoteHub,,2025-04-21,2026-10-20
+Slingshot Strategies,17,8,9,0,0,VoteHub; Wikipedia,D; DEM,2024-05-03,2026-10-18
+St. Pete Polls,17,2,6,9,0,VoteHub; Wikipedia,,2025-03-25,2026-10-07
+Z to A Research,17,5,5,7,0,VoteHub; Wikipedia,D; DEM,2025-08-10,2026-10-01
+Pan Atlantic Research,17,4,8,5,0,VoteHub; Wikipedia,D,2025-05-26,2026-05-18
+University of Houston / YouGov,17,11,2,4,0,VoteHub; Wikipedia,,2025-10-11,2026-01-31
+State Navigate,16,0,15,1,0,VoteHub; Wikipedia,,2025-10-20,2026-10-28
+Texas Southern University,16,11,4,1,0,Wikipedia,,2025-08-12,2026-10-25
+Texas Southern University Barbara Jordan Public Policy Research and Survey Center,16,8,4,4,0,VoteHub,,2025-08-12,2026-10-25
+National Public Affairs,15,4,10,1,0,VoteHub; Wikipedia,R; REP,2025-02-05,2026-10-29
+Hart Research Associates,15,5,3,7,0,VoteHub; Wikipedia,D; DEM,2025-09-22,2026-10-29
+HarrisX,15,0,0,0,15,Silver Bulletin; VoteHub,,2026-01-29,2026-10-26
+The Alabama Poll,15,12,1,2,0,VoteHub; Wikipedia,,2025-08-26,2026-10-16
+Mason-Dixon Polling & Strategy,15,2,10,3,0,Wikipedia,,2025-04-14,2026-10-14
+University of Texas /Texas Politics Project,15,6,5,4,0,Wikipedia,,2026-02-16,2026-10-05
+Verasight/VoteHub,14,4,6,4,0,Wikipedia,,2026-10-20,2026-10-20
+FM3 Research,14,3,4,7,0,VoteHub; Wikipedia,D; DEM,2025-12-07,2026-07-12
+JMC Analytics,14,7,7,0,0,Wikipedia,R,2026-02-16,2026-06-22
+BDPC,14,14,0,0,0,Wikipedia,,2026-01-22,2026-06-16
+Hart Research Associates/Public Opinion Strategies,13,0,0,0,13,Silver Bulletin; VoteHub,,2025-03-11,2026-10-30
+Kreate Strategies,13,1,12,0,0,VoteHub; Wikipedia,R; REP,2025-02-07,2026-10-30
+Franklin & Marshall College,13,0,5,8,0,VoteHub; Wikipedia,,2025-10-05,2026-10-18
+"Fabrizio, Lee & Associates/Impact Research",13,4,5,1,3,Silver Bulletin; VoteHub,,2025-02-01,2026-09-22
+YouGov / Texas Southern University,13,13,0,0,0,Wikipedia,,2025-05-19,2025-05-19
+John Zogby Strategies,12,0,5,0,7,Silver Bulletin; VoteHub; Wikipedia,,2025-10-02,2026-11-02
+SSRS,12,5,6,0,1,Silver Bulletin; Wikipedia,,2026-09-06,2026-10-27
+Saint Anselm,12,5,4,3,0,VoteHub,,2025-11-19,2026-10-20
+Normington Petts,12,2,0,10,0,Wikipedia,D,2025-06-16,2026-10-14
+University of Houston,12,2,1,9,0,Wikipedia,,2025-07-18,2026-10-14
+Listener Group/ Political Matrix News,12,0,2,10,0,Wikipedia,R,2026-02-04,2026-07-23
+EMC Research,12,2,4,6,0,VoteHub; Wikipedia,D,2025-09-18,2026-05-07
+KSTP / SurveyUSA,11,8,3,0,0,Wikipedia,,2026-06-16,2026-10-28
+Upswing Research,11,2,0,9,0,VoteHub; Wikipedia,D; DEM,2026-01-10,2026-10-28
+"Normington, Petts & Associates",11,2,0,7,2,Silver Bulletin; VoteHub; Wikipedia,D; DEM,2025-03-19,2026-10-14
+Wedgewood Polls,11,6,5,0,0,VoteHub,,2026-07-31,2026-10-14
+Emerson College / WPRI-TV,11,1,8,2,0,Wikipedia,,2026-05-16,2026-10-11
+MDW Communications,11,1,2,8,0,VoteHub; Wikipedia,D,2025-04-12,2026-10-10
+Opinion Diagnostics,11,3,8,0,0,VoteHub; Wikipedia,R,2026-04-16,2026-09-25
+American Pulse Research & Polling,11,9,0,1,1,Silver Bulletin; VoteHub; Wikipedia,,2025-06-25,2026-09-24
+EPIC-MRA,11,6,5,0,0,VoteHub; Wikipedia,,2025-02-08,2026-08-28
+yes. every kid.,11,4,7,0,0,VoteHub; Wikipedia,D,2025-07-21,2026-07-11
+Kaplan Strategies,11,3,2,6,0,VoteHub; Wikipedia,R,2023-06-12,2026-05-26
+East Carolina University,10,9,0,1,0,VoteHub; Wikipedia,,2026-09-03,2026-10-29
+Wick,10,2,7,0,1,Silver Bulletin; VoteHub; Wikipedia,R; REP,2025-04-30,2026-10-23
+David Binder Research,10,0,4,6,0,Wikipedia,D,2026-01-20,2026-10-20
+University of Massachusetts Lowell Center for Public Opinion/YouGov,10,5,4,0,1,VoteHub,,2026-03-30,2026-10-19
+GBAO Strategies,10,2,3,3,2,VoteHub; Wikipedia,D; DEM,2025-11-26,2026-10-15
+Workbench Strategy,10,3,1,6,0,Wikipedia,D,2025-10-19,2026-10-13
+Zenith Research,10,7,1,2,0,VoteHub; Wikipedia,D; DEM,2025-10-10,2026-08-03
+1892 Polling,10,2,3,5,0,VoteHub; Wikipedia,R,2025-09-04,2026-07-31
+The New York Times / Siena University,9,0,1,8,0,VoteHub; Wikipedia,,2026-06-27,2026-11-01
+Embold Research,9,2,4,3,0,VoteHub; Wikipedia,,2026-08-11,2026-10-08
+SoCal Strategies,9,6,2,1,0,Wikipedia,R,2025-10-25,2026-09-13
+Patriot Polling,9,0,4,5,0,VoteHub; Wikipedia,R,2026-01-24,2026-07-26
+The Winston Group,9,0,0,0,9,Silver Bulletin; VoteHub,REP,2025-04-10,2026-06-02
+Rosetta Stone Communications,9,3,6,0,0,Wikipedia,R,2025-10-25,2025-10-25
+Center for Strategic Politics,8,0,0,8,0,Wikipedia,D,2026-03-05,2026-10-30
+Berkeley IGS,8,0,8,0,0,Wikipedia,,2025-08-17,2026-10-25
+Research & Polling Inc.,8,3,4,1,0,VoteHub; Wikipedia,,2026-04-24,2026-10-09
+DHM Research,8,0,3,5,0,VoteHub; Wikipedia,,2026-07-10,2026-10-01
+HarrisX/Harris,8,0,0,0,8,VoteHub,,2026-02-26,2026-09-28
+Lighthouse Research,8,0,0,8,0,VoteHub; Wikipedia,,2026-09-10,2026-09-24
+OnMessage Inc.,8,1,7,0,0,Wikipedia,R,2025-01-19,2026-07-25
+JMC Analytics & Polling,8,8,0,0,0,Wikipedia,,2025-02-26,2026-02-16
+Guidant Polling and Strategy,7,4,2,1,0,VoteHub; Wikipedia,R,2025-12-11,2026-10-27
+DCCC,7,0,0,7,0,Wikipedia,D,2026-07-30,2026-10-22
+"Glengariff Group, Inc.",7,5,2,0,0,VoteHub,,2025-05-08,2026-10-22
+PPIC,7,0,7,0,0,Wikipedia,,2025-11-19,2026-10-22
+Univision / YouGov,7,2,2,3,0,Wikipedia,,2026-09-04,2026-10-21
+High Point University / YouGov,7,5,0,2,0,Wikipedia,,2026-04-06,2026-10-20
+Tarrance Group,7,2,3,2,0,Wikipedia,R,2026-04-02,2026-10-20
+University of Massachusetts Department of Political Science/YouGov,7,3,2,0,2,Silver Bulletin; VoteHub,,2025-10-20,2026-10-12
+Elon University / YouGov,7,7,0,0,0,Wikipedia,,2026-07-31,2026-10-08
+Susquehanna Polling & Research,7,2,5,0,0,VoteHub; Wikipedia,R,2025-09-28,2026-09-30
+Overton Insights,7,4,2,1,0,Wikipedia,R,2026-08-26,2026-08-26
+Bedrock Polling,7,1,0,4,2,Silver Bulletin; VoteHub; Wikipedia,D; DEM,2026-03-26,2026-08-10
+CEPP,7,0,7,0,0,Wikipedia,,2026-05-26,2026-05-26
+UpONE Insights,7,7,0,0,0,Wikipedia,R,2025-03-20,2026-05-11
+Maine People's Resource Center,7,7,0,0,0,VoteHub; Wikipedia,D,2025-10-29,2026-03-31
+Virginia Commonwealth University,7,1,6,0,0,VoteHub; Wikipedia,,2025-01-15,2025-10-14
+Target Insyght,7,4,3,0,0,VoteHub; Wikipedia,,2025-02-08,2025-03-06
+WPA Intelligence,7,6,1,0,0,VoteHub; Wikipedia,R; REP,2025-01-15,2025-01-30
+The Washington Post / SSPG,6,2,2,2,0,Wikipedia,,2026-09-28,2026-10-26
+The Citadel,6,2,4,0,0,Wikipedia,,2026-05-31,2026-10-25
+DCCC Targeting and Analytics Department,6,0,0,6,0,VoteHub,DEM,2026-09-23,2026-10-21
+High Point University Survey Research Center,6,4,0,0,2,Silver Bulletin; VoteHub,,2025-11-14,2026-10-20
+The New York Times/Siena College,6,0,0,0,6,Silver Bulletin; VoteHub,,2025-04-24,2026-10-19
+Michigan State University Institute for Public Policy and Social Research/YouGov,6,3,3,0,0,VoteHub,,2026-08-20,2026-10-19
+University of Georgia,6,1,5,0,0,Wikipedia,,2025-10-21,2026-10-15
+Mason-Dixon,6,2,3,1,0,VoteHub; Wikipedia,,2024-12-19,2026-10-14
+GS Strategy Group (R)/ New River Strategies,6,4,2,0,0,Wikipedia,D/R,2026-10-13,2026-10-13
+The Tyson Group,6,4,2,0,0,VoteHub; Wikipedia,R; REP,2025-10-03,2026-10-08
+Expedition Strategies,6,0,1,5,0,VoteHub; Wikipedia,D; DEM,2026-01-12,2026-10-04
+MassINC Polling Group,6,3,3,0,0,VoteHub; Wikipedia,,2024-11-01,2026-09-22
+Catawba College / YouGov,6,4,0,2,0,Wikipedia,,2026-03-18,2026-09-15
+Abacus Data,6,6,0,0,0,Wikipedia,,2026-08-28,2026-08-28
+Schoen Cooperman Research,6,0,2,4,0,Wikipedia,D,2025-10-14,2026-05-04
+Victory Research,6,5,1,0,0,VoteHub; Wikipedia,,2025-11-24,2026-03-15
+Cole Hargrave Snodgrass & Associates,6,0,6,0,0,Wikipedia,R,2025-02-15,2026-01-30
+University of Houston Hobby School of Public Affairs/Texas Southern University School of Public Affairs,6,6,0,0,0,VoteHub,,2025-10-01,2025-10-01
+Keating Research,5,1,2,2,0,VoteHub; Wikipedia,D,2026-02-01,2026-11-02
+A2 Insights,5,2,2,0,1,VoteHub; Wikipedia,,2025-07-10,2026-10-27
+The Washington Post/George Mason University School of Policy and Government,5,2,3,0,0,VoteHub,,2026-09-14,2026-10-26
+New River Strategies/GS Strategy Group,5,3,2,0,0,VoteHub,,2026-10-13,2026-10-13
+Beacon Research/Shaw & Company Research,5,0,0,0,5,Silver Bulletin,,2026-01-26,2026-10-12
+GreatBlue Research,5,0,5,0,0,VoteHub; Wikipedia,,2026-07-26,2026-10-12
+PennLive,5,0,5,0,0,Wikipedia,,2026-05-24,2026-10-11
+Christopher Newport University,5,0,4,1,0,VoteHub; Wikipedia,,2025-01-13,2026-10-10
+20/20 Insight,5,0,3,2,0,Wikipedia,D,2023-09-28,2026-10-09
+Beacon Research,5,0,1,4,0,VoteHub; Wikipedia,D,2025-09-20,2026-10-06
+Grayhouse,5,1,1,3,0,VoteHub; Wikipedia,R; REP,2025-04-24,2026-10-04
+Manhattan Institute,5,0,3,0,2,Silver Bulletin; VoteHub; Wikipedia,R,2025-10-26,2026-10-01
+ReconMR/Siena University,5,2,3,0,0,VoteHub; Wikipedia,,2026-06-04,2026-09-11
+The Texas Politics Project at the University of Texas at Austin/YouGov,5,3,2,0,0,VoteHub,,2026-02-16,2026-08-13
+The Tarrance Group,5,2,1,2,0,VoteHub; Wikipedia,R,2025-05-01,2026-07-30
+Survey160,5,0,0,0,5,Silver Bulletin; VoteHub,,2025-09-01,2026-07-20
+Tyson Group,5,3,1,1,0,Wikipedia,R,2025-01-31,2026-07-15
+NextGen P,5,0,5,0,0,VoteHub; Wikipedia,R,2025-06-18,2026-07-09
+NextGenP,5,0,0,5,0,Wikipedia,R,2025-02-28,2026-06-17
+Pan Atlantic SMS Group,5,5,0,0,0,VoteHub,,2025-12-07,2026-05-18
+Evitarus,5,0,5,0,0,Wikipedia,D,2026-03-17,2026-05-16
+Stetson University,5,3,2,0,0,VoteHub; Wikipedia,,2026-04-13,2026-04-13
+University of Texas at Tyler Center for Opinion Research,5,3,2,0,0,VoteHub,,2025-09-24,2026-02-22
+NRSC,5,5,0,0,0,Wikipedia,R,2025-07-07,2026-02-18
+Atlanta Journal-Constitution,5,5,0,0,0,Wikipedia,,2025-04-24,2025-10-23
+NicoPAC,5,0,5,0,0,Wikipedia,R,2025-01-26,2025-04-06
+University of Southern California Democracy and Fair Elections Lab,4,0,0,4,0,VoteHub,,2026-10-19,2026-11-01
+YouGov Blue,4,2,1,0,1,Silver Bulletin; VoteHub; Wikipedia,D,2025-11-10,2026-10-26
+The Washington Post/George Mason University Schar School of Policy and Government,4,1,0,3,0,VoteHub,,2026-09-28,2026-10-26
+DCCC Targeting Team,4,0,0,4,0,Wikipedia,D,2026-08-13,2026-10-25
+Verasight /VoteHub,4,4,0,0,0,Wikipedia,,2026-10-20,2026-10-20
+VoteHub/Verasight,4,2,2,0,0,VoteHub,,2026-10-20,2026-10-20
+Hendrix College,4,1,2,1,0,VoteHub; Wikipedia,,2026-08-12,2026-10-13
+Cross Timbers Poll,4,0,4,0,0,Wikipedia,,2026-09-30,2026-10-12
+ReconMR/ Siena University,4,2,1,1,0,VoteHub; Wikipedia,,2026-09-11,2026-10-08
+Elon University/YouGov,4,4,0,0,0,VoteHub,,2026-07-23,2026-10-08
+Siena University,4,0,3,1,0,VoteHub; Wikipedia,,2026-04-30,2026-10-06
+OnMessage,4,1,1,2,0,VoteHub; Wikipedia,R,2025-09-18,2026-10-01
+AlphaROC,4,0,0,0,4,Silver Bulletin,,2026-06-28,2026-09-28
+The New York Times / The Philadelphia Inquirer / Siena University,4,0,4,0,0,Wikipedia,,2026-08-21,2026-09-22
+Bravo Group,4,0,4,0,0,VoteHub,,2026-05-24,2026-09-22
+New York Times / Portland Press Herald / Siena University,4,0,4,0,0,Wikipedia,,2026-06-26,2026-09-22
+Braun Research/ Vermont Public,4,0,2,2,0,Wikipedia,,2026-09-21,2026-09-21
+High Point University,4,4,0,0,0,Wikipedia,,2026-02-20,2026-09-16
+StimSight Research,4,0,1,3,0,VoteHub; Wikipedia,,2025-07-24,2026-09-12
+Rutgers-Eagleton,4,2,2,0,0,VoteHub; Wikipedia,,2025-08-11,2026-09-07
+Bendixen & Amandi International,4,0,1,3,0,Wikipedia,D,2025-09-09,2026-08-30
+Saint Anselm College Survey Center,4,2,1,1,0,VoteHub,,2026-08-18,2026-08-18
+Deep Root Analytics,4,4,0,0,0,Wikipedia,R,2025-09-28,2026-08-18
+KTSP / SurveyUSA,4,2,2,0,0,Wikipedia,,2026-08-04,2026-08-17
+Platform Communications,4,0,4,0,0,VoteHub; Wikipedia,R,2025-09-30,2026-08-13
+Texas A&M University /ReconMR/ Siena University,4,2,1,1,0,Wikipedia,,2026-06-04,2026-07-30
+Beacon Insights,4,0,0,4,0,Wikipedia,,2026-05-02,2026-07-22
+The Bullfinch Group/Independent Center,4,0,0,4,0,Wikipedia,,2026-07-16,2026-07-16
+Strategic National,4,0,1,3,0,Wikipedia,R,2026-03-16,2026-06-14
+Meeting Street Insights,4,0,3,1,0,Wikipedia,R,2025-08-12,2026-06-06
+Cherry Communications,4,2,2,0,0,VoteHub; Wikipedia,R; REP,2026-05-09,2026-05-09
+Middle Seat,4,0,0,4,0,Wikipedia,,2026-05-06,2026-05-06
+The Public Sentiment Institute/ Virginia Project,4,4,0,0,0,Wikipedia,R,2026-05-05,2026-05-05
+Center for Excellence in Polling,4,0,4,0,0,VoteHub; Wikipedia,,2026-01-24,2026-01-24
+Praecones Analytica,4,4,0,0,0,VoteHub; Wikipedia,,2025-03-01,2025-12-28
+Roanoke College,4,0,4,0,0,VoteHub,,2025-02-20,2025-10-27
+Washington Post/George Mason University,4,0,4,0,0,VoteHub,,2025-09-29,2025-10-20
+Voter Sciences,4,0,0,4,0,VoteHub; Wikipedia,R; REP,2025-08-01,2025-08-20
+Resonance Media Services,3,2,1,0,0,VoteHub; Wikipedia,R,2026-07-21,2026-10-30
+University of Southern California Democracy and Fair Elections Lab/University of Southern California Dornsife Center for Economic and Social Research,3,0,0,3,0,VoteHub,,2026-10-28,2026-10-28
+UC Berkeley Institute of Governmental Studies,3,0,3,0,0,VoteHub,,2026-08-09,2026-10-25
+VoteNexus Research,3,0,1,2,0,Wikipedia,,2026-10-22,2026-10-22
+Montana State University Billings,3,1,0,2,0,VoteHub; Wikipedia,,2026-10-21,2026-10-21
+The Rainey Center,3,0,0,0,3,Silver Bulletin; VoteHub,,2026-05-18,2026-10-20
+Beacon Research (D)/Shaw & Co. Research,3,0,3,0,0,VoteHub; Wikipedia,D/R,2026-06-27,2026-10-20
+UMass Lowell / YouGov,3,1,2,0,0,Wikipedia,,2026-09-28,2026-10-19
+Pollfinity,3,1,2,0,0,VoteHub,,2026-06-14,2026-10-18
+CBS News / YouGov,3,1,2,0,0,Wikipedia,,2026-04-27,2026-10-16
+Spry Strategies,3,0,2,1,0,VoteHub; Wikipedia,R,2025-08-23,2026-10-16
+UC Berkeley Citrin Center/TrueDot/ Politico,3,0,3,0,0,Wikipedia,,2026-09-14,2026-10-14
+NPA Polling,3,2,1,0,0,Wikipedia,,2026-10-12,2026-10-12
+MDW,3,3,0,0,0,VoteHub; Wikipedia,D,2026-04-03,2026-10-10
+NewsNation,3,0,0,0,3,Silver Bulletin,,2025-04-27,2026-10-09
+Bowling Green State University/YouGov,3,1,1,0,1,VoteHub; Wikipedia,,2026-02-18,2026-10-09
+Research & Polling,3,0,0,3,0,VoteHub; Wikipedia,,2026-10-09,2026-10-09
+Neighborhood Research and Media,3,0,1,2,0,VoteHub; Wikipedia,R,2025-10-09,2026-10-06
+Torchlight Strategies,3,0,0,3,0,Wikipedia,R,2026-09-19,2026-10-02
+Guidant Polling & Strategy,3,1,1,1,0,Wikipedia,R,2025-06-19,2026-09-28
+Independent Voter Project,3,0,3,0,0,Wikipedia,,2026-02-20,2026-09-28
+American Pulse Research,3,3,0,0,0,Wikipedia,R,2026-04-01,2026-09-24
+KFF,3,0,0,0,3,Silver Bulletin; VoteHub,,2026-01-20,2026-09-21
+Impact Research/National Research ,3,0,0,0,3,Silver Bulletin; VoteHub,,2026-01-13,2026-09-21
+Advanced Targeting Research,3,1,1,1,0,Wikipedia,,2025-03-26,2026-09-16
+Grassroots Targeting,3,0,1,2,0,VoteHub; Wikipedia,R,2026-07-06,2026-09-09
+Bullfinch Group,3,1,0,2,0,VoteHub; Wikipedia,R,2026-07-16,2026-09-06
+Public Policy Research/ Texas Southern University,3,0,0,3,0,Wikipedia,,2026-08-22,2026-08-22
+CHS & Associates,3,2,1,0,0,Wikipedia,R,2026-08-04,2026-08-06
+Sacred Heart University / WFSB / CT Insider,3,0,3,0,0,Wikipedia,,2026-07-26,2026-07-26
+"Mason-Dixon Polling & Research, Inc.",3,0,3,0,0,VoteHub,,2026-06-10,2026-06-10
+Yale University Institution for Social and Policy Studies,3,0,0,0,3,Silver Bulletin; VoteHub,,2025-04-03,2026-03-23
+"Harris, DeVille & Associates",3,3,0,0,0,Wikipedia,,2026-03-19,2026-03-19
+Pulse Opinion Research,3,2,0,1,0,Wikipedia,R,2025-05-21,2026-03-17
+OnMessage Public Strategies,3,3,0,0,0,Wikipedia,R,2026-03-08,2026-03-08
+The American Promise,3,0,3,0,0,Wikipedia,,2025-09-05,2026-02-26
+University of Texas at Tyler,3,2,1,0,0,VoteHub,,2025-09-24,2026-02-22
+University of Texas / Texas Politics Project,3,1,2,0,0,Wikipedia,,2026-02-16,2026-02-16
+Targoz Market Research/ South Carolina Policy Council,3,0,3,0,0,Wikipedia,,2025-07-25,2026-02-01
+Emerson College / WGN-TV,3,2,1,0,0,Wikipedia,,2026-01-05,2026-01-05
+Fabrizio Ward,3,0,0,1,2,Silver Bulletin; VoteHub; Wikipedia,R; REP,2025-03-28,2025-12-17
+Rosetta Stone,3,3,0,0,0,VoteHub,,2025-10-25,2025-10-25
+UpOne Insights,3,3,0,0,0,Wikipedia,R,2025-02-20,2025-10-14
+Plymouth Union Public,3,0,3,0,0,Wikipedia,R,2025-10-09,2025-10-09
+Leger,2,0,0,0,2,Silver Bulletin; VoteHub,,2026-04-20,2026-10-25
+Michigan State University Department of Political Science/Verasight,2,1,1,0,0,VoteHub,,2026-10-23,2026-10-23
+M3 Strategies,2,0,1,1,0,Wikipedia,R,2026-10-23,2026-10-23
+CU Boulder / YouGov,2,1,1,0,0,Wikipedia,,2026-10-20,2026-10-20
+Fulcrum Strategy Group,2,0,0,2,0,Wikipedia,,2026-10-20,2026-10-20
+Washington Post / Schar School,2,0,0,2,0,Wikipedia,,2026-10-19,2026-10-19
+UMass Lowell,2,1,1,0,0,Wikipedia,,2026-10-18,2026-10-18
+Cor Strategies,2,2,0,0,0,Wikipedia,R,2026-02-24,2026-10-15
+SEA Polling,2,0,0,2,0,Wikipedia,D,2026-08-30,2026-10-15
+University of California Berkeley Jack Citrin Center for Public Opinion Research/Verasight/TrueDot,2,0,2,0,0,VoteHub,,2026-09-16,2026-10-14
+Wesleyan University / YouGov,2,0,2,0,0,Wikipedia,,2026-10-12,2026-10-12
+Pew Research Center,2,0,0,0,2,Silver Bulletin; VoteHub,,2026-07-12,2026-10-04
+"University of Maryland, Baltimore County",2,0,2,0,0,Wikipedia,,2025-10-25,2026-09-27
+Angus Reid Global,2,0,0,0,2,Silver Bulletin,,2026-08-11,2026-09-25
+Upswing Research & Strategy,2,0,0,2,0,Wikipedia,D,2026-03-30,2026-09-25
+DCCC Analytics Department,2,0,0,2,0,Wikipedia,,2026-09-23,2026-09-23
+Crosby for Congress,2,0,0,2,0,Wikipedia,D,2026-09-10,2026-09-23
+Cygnal/Beacon Research,2,1,1,0,0,VoteHub,,2026-09-21,2026-09-21
+Stetson University Center for Public Opinion Research,2,1,1,0,0,VoteHub,,2026-09-21,2026-09-21
+McLaughlin and Associates,2,0,0,2,0,Wikipedia,R,2026-09-17,2026-09-17
+Miller Consulting Services,2,0,0,2,0,Wikipedia,,2026-09-11,2026-09-11
+Public Religion Research Institute,2,0,0,0,2,Silver Bulletin; VoteHub,,2025-09-08,2026-09-07
+Rutgers University Eagleton Institute of Politics,2,0,0,2,0,Wikipedia,,2026-09-07,2026-09-07
+BSP Research,2,0,2,0,0,VoteHub; Wikipedia,D,2026-08-07,2026-09-04
+NextGen Polling,2,0,2,0,0,VoteHub; Wikipedia,R,2025-12-17,2026-08-19
+Stealth Analytics,2,0,2,0,0,VoteHub; Wikipedia,,2026-05-15,2026-08-13
+Catalyst Research,2,0,0,2,0,Wikipedia,,2026-08-08,2026-08-08
+David J Wolfson,2,0,2,0,0,Wikipedia,,2026-07-06,2026-07-29
+National Victory Strategies,2,0,0,2,0,Wikipedia,,2026-07-28,2026-07-28
+SurveyUSA (I),2,0,0,2,0,Wikipedia,,2026-07-14,2026-07-14
+American Viewpoint,2,0,0,2,0,VoteHub; Wikipedia,R,2026-07-12,2026-07-12
+Braun Research,2,0,0,2,0,Wikipedia,D,2026-05-10,2026-07-08
+Talker Research,2,0,0,0,2,Silver Bulletin; VoteHub,,2026-02-19,2026-07-02
+Minnesota Private Business Council,2,0,2,0,0,Wikipedia,R,2026-06-25,2026-06-25
+Pulse Science Decision,2,0,0,2,0,Wikipedia,R,2026-06-23,2026-06-23
+Texas Politics Project at the University of Texas/YouGov,2,1,1,0,0,VoteHub,,2026-06-12,2026-06-12
+MAD Global Strategy,2,0,2,0,0,VoteHub; Wikipedia,DEM,2026-02-04,2026-06-11
+Texas A&M University /ReconMR,2,0,1,1,0,Wikipedia,,2026-06-04,2026-06-04
+Starboard Communications,2,0,2,0,0,Wikipedia,,2026-04-14,2026-06-04
+Strategy Management,2,2,0,0,0,Wikipedia,,2026-06-04,2026-06-04
+HarrisX/Harris Poll,2,0,0,0,2,Silver Bulletin; VoteHub,,2026-01-29,2026-05-31
+Colorado Community Research,2,1,1,0,0,Wikipedia,,2026-05-28,2026-05-28
+Pennsylvania State University McCourtney Institute for Democracy/YouGov,2,0,0,0,2,VoteHub,,2026-02-23,2026-05-26
+Applecart,2,0,0,2,0,VoteHub; Wikipedia,D,2026-05-25,2026-05-25
+Conquest Communications Group/ South Carolina Policy Council,2,0,2,0,0,Wikipedia,,2026-05-21,2026-05-21
+NHJournal/Praecones Analytica,2,2,0,0,0,Wikipedia,,2025-12-28,2026-05-13
+Hoffman Research Group,2,0,2,0,0,Wikipedia,R,2026-04-24,2026-05-12
+2040 Strategy Group,2,0,0,2,0,Wikipedia,D,2026-05-08,2026-05-08
+Polity Research Consulting,2,0,2,0,0,Wikipedia,,2026-05-07,2026-05-07
+Sextant Strategies & Research,2,0,0,2,0,Wikipedia,D,2026-05-03,2026-05-03
+Gudelunas Strategies,2,0,2,0,0,Wikipedia,,2026-04-18,2026-04-27
+PI Polling,2,0,0,2,0,Wikipedia,,2026-04-02,2026-04-22
+High Point University Survey Research Center/YouGov,2,2,0,0,0,VoteHub,,2026-04-06,2026-04-06
+Keystone Analytics,2,0,2,0,0,Wikipedia,,2026-04-06,2026-04-06
+VictoryPhones,2,0,2,0,0,Wikipedia,,2026-02-08,2026-03-24
+Michigan State University / YouGov,2,0,2,0,0,Wikipedia,,2026-03-24,2026-03-24
+Yale Youth Poll,2,0,0,0,2,VoteHub,,2025-11-11,2026-03-23
+HIT Strategies,2,1,0,1,0,Wikipedia,D,2026-01-15,2026-02-23
+Political Intelligence,2,0,0,2,0,Wikipedia,,2025-12-22,2026-02-20
+Marist College,2,0,1,0,1,VoteHub,,2025-11-13,2026-02-19
+University of Houston Hobby School of Public Affairs/YouGov,2,1,1,0,0,VoteHub,,2026-01-31,2026-01-31
+Gonzales Research,2,0,2,0,0,Wikipedia,,2025-01-04,2026-01-06
+NewsNation/Decision Desk HQ,2,0,0,0,2,VoteHub,,2025-10-29,2025-10-29
+Trafalgar Group/InsiderAdvantage,2,0,2,0,0,VoteHub,,2025-10-15,2025-10-28
+Fairleigh Dickinson,2,0,2,0,0,VoteHub,,2025-07-23,2025-10-15
+OpinionWorks,2,0,2,0,0,Wikipedia,,2025-10-10,2025-10-10
+Inquire,2,0,0,2,0,Wikipedia,,2025-10-06,2025-10-06
+"Advantage, Inc.",2,0,2,0,0,VoteHub; Wikipedia,R,2025-09-24,2025-09-24
+Data For Progress,2,0,0,2,0,Wikipedia,D,2025-09-08,2025-09-08
+Brilliant Corners Research & Strategies,2,0,0,2,0,Wikipedia,D,2025-07-23,2025-08-12
+The Mellman Group,2,0,0,2,0,Wikipedia,D,2025-06-10,2025-06-10
+American Opportunity Alliance,2,2,0,0,0,Wikipedia,R,2025-05-01,2025-05-01
+314 Action,2,2,0,0,0,Wikipedia,D,2025-03-27,2025-03-27
+Citizen Data,2,0,2,0,0,Wikipedia,,2025-02-10,2025-02-10
+Capitol Weekly,2,0,2,0,0,Wikipedia,,2025-02-07,2025-02-07
+Breakthrough Campaigns,2,0,2,0,0,Wikipedia,,2024-11-26,2024-11-26
+Campaign Viability Research,2,2,0,0,0,Wikipedia,R,2024-11-15,2024-11-15
+Florida Atlantic University / Mainstreet Research,2,0,2,0,0,Wikipedia,,2024-04-17,2024-06-09
+CWS Research,2,2,0,0,0,Wikipedia,R,2022-07-10,2022-10-23
+Lincoln Park Strategies,1,1,0,0,0,Wikipedia,D,2026-10-31,2026-10-31
+Tufts University Public Opinion Lab,1,0,0,0,1,Silver Bulletin,,2026-10-27,2026-10-27
+GOTV Polling,1,0,1,0,0,Wikipedia,,2026-10-26,2026-10-26
+Targoz Media Research,1,0,1,0,0,Wikipedia,,2026-10-25,2026-10-25
+Chism Strategies,1,0,1,0,0,Wikipedia,D,2026-10-24,2026-10-24
+Prolific,1,0,0,0,1,Silver Bulletin,,2026-10-22,2026-10-22
+New York Times / The Philadelphia Inquirer / Siena University,1,0,0,1,0,Wikipedia,,2026-10-22,2026-10-22
+University of Illinois Springfield,1,0,1,0,0,Wikipedia,,2026-10-22,2026-10-22
+Democratic Congressional Campaign Committee,1,0,0,1,0,Wikipedia,,2026-10-21,2026-10-21
+DM Strategies,1,0,0,1,0,Wikipedia,,2026-10-19,2026-10-19
+Muhlenberg College Institute of Public Opinion,1,0,0,1,0,VoteHub; Wikipedia,,2026-10-15,2026-10-15
+University of Georgia School of Public and International Affairs,1,1,0,0,0,VoteHub,,2026-10-15,2026-10-15
+GS Strategy Group (R)/New River Strategies,1,0,1,0,0,Wikipedia,D/R,2026-10-13,2026-10-13
+New River,1,0,1,0,0,VoteHub,,2026-10-13,2026-10-13
+SurveyMonkey,1,0,0,0,1,Silver Bulletin,,2026-10-12,2026-10-12
+AP-NORC,1,0,0,0,1,Silver Bulletin,,2026-10-12,2026-10-12
+Equis Research,1,0,1,0,0,VoteHub,,2026-10-09,2026-10-09
+VoteNexus,1,0,0,1,0,Wikipedia,D,2026-10-07,2026-10-07
+Wesleyan University Survey Lab/YouGov,1,0,1,0,0,VoteHub,,2026-10-07,2026-10-07
+Neighborhood Research,1,0,0,1,0,Wikipedia,R,2026-10-06,2026-10-06
+Resonance Media,1,0,1,0,0,Wikipedia,,2026-10-03,2026-10-03
+YouGov - CBS News,1,0,0,0,1,VoteHub,,2026-10-02,2026-10-02
+Wavefield Research,1,0,0,1,0,Wikipedia,,2026-10-02,2026-10-02
+Centerline Research,1,0,0,0,1,Silver Bulletin,,2026-10-01,2026-10-01
+CBS / YouGov,1,0,1,0,0,Wikipedia,,2026-10-01,2026-10-01
+FirstStrategic Communications and Public Affairs,1,0,0,1,0,Wikipedia,,2026-10-01,2026-10-01
+FirstStrategic,1,0,0,1,0,VoteHub,,2026-10-01,2026-10-01
+University of Maryland Baltimore County Institute of Politics,1,0,1,0,0,VoteHub,,2026-09-27,2026-09-27
+American Pulse,1,0,0,1,0,Wikipedia,,2026-09-24,2026-09-24
+Emerson College/RealClear Opinion Research,1,0,0,0,1,Silver Bulletin,,2026-09-15,2026-09-15
+Aspect Strategic,1,1,0,0,0,Wikipedia,,2026-09-15,2026-09-15
+University of Massachusetts / YouGov,1,0,1,0,0,Wikipedia,,2026-09-14,2026-09-14
+TargetSmart,1,0,1,0,0,VoteHub; Wikipedia,DEM,2026-09-12,2026-09-12
+The Trafalgar Group,1,1,0,0,0,Wikipedia,R,2026-09-10,2026-09-10
+Sea Polling,1,0,0,1,0,Wikipedia,,2026-08-29,2026-08-29
+Strategies 360,1,0,0,1,0,Wikipedia,,2026-08-26,2026-08-26
+HighGround,1,0,1,0,0,VoteHub,,2026-08-18,2026-08-18
+Capital Strategic Partners,1,0,0,1,0,Wikipedia,,2026-08-15,2026-08-15
+Greg Rigamer,1,0,0,1,0,Wikipedia,,2026-08-13,2026-08-13
+Wave Polling,1,0,0,0,1,Silver Bulletin,,2026-08-11,2026-08-11
+Independent Center Voice,1,0,0,1,0,Wikipedia,,2026-08-01,2026-08-01
+Unknown (Reported by NOTUS),1,0,0,1,0,VoteHub,REP,2026-07-30,2026-07-30
+Change Research (I),1,1,0,0,0,Wikipedia,,2026-07-30,2026-07-30
+Inquire LLC,1,0,0,1,0,Wikipedia,R,2026-07-29,2026-07-29
+Tusk Strategies,1,0,0,1,0,Wikipedia,,2026-07-28,2026-07-28
+Innovative Communication Strategies,1,1,0,0,0,Wikipedia,,2026-07-21,2026-07-21
+Action Solutions,1,0,0,1,0,Wikipedia,,2026-07-19,2026-07-19
+Fabrizio Ward (R)/Impact Research,1,0,1,0,0,Wikipedia,D/R,2026-07-16,2026-07-16
+Red Oak Strategic,1,0,1,0,0,VoteHub,REP,2026-07-12,2026-07-12
+Zogby Analytics,1,0,0,0,1,Silver Bulletin,,2026-07-04,2026-07-04
+The New York Times / Portland Press-Herald / Siena University,1,0,0,1,0,Wikipedia,,2026-06-26,2026-06-26
+?,1,0,0,1,0,Wikipedia,,2026-06-22,2026-06-22
+Franklin & Marshall College Center for Opinion Research,1,0,1,0,0,VoteHub,,2026-06-14,2026-06-14
+Mercury Public Affairs,1,0,0,1,0,Wikipedia,D,2026-06-11,2026-06-11
+Clarity Campaign,1,0,0,1,0,Wikipedia,,2026-05-28,2026-05-28
+NonDoc Media,1,0,1,0,0,Wikipedia,,2026-05-25,2026-05-25
+University of New Hampshire Survey Center,1,1,0,0,0,VoteHub,,2026-05-25,2026-05-25
+Verasight/Morris Predictive Insights,1,0,0,0,1,Silver Bulletin; VoteHub,,2026-05-20,2026-05-20
+City Cast DC/True Dot,1,0,0,1,0,Wikipedia,,2026-05-17,2026-05-17
+Mellman Group,1,0,1,0,0,Wikipedia,D,2026-05-06,2026-05-06
+Texas Southern University / YouGov,1,0,1,0,0,Wikipedia,,2026-05-05,2026-05-05
+Dittman Research,1,0,1,0,0,Wikipedia,,2026-04-30,2026-04-30
+Normington Petts & Associates,1,0,0,1,0,VoteHub,DEM,2026-04-23,2026-04-23
+Honan Strategy Group,1,0,0,1,0,Wikipedia,D,2026-04-22,2026-04-22
+University of Texas/Texas Politics Project,1,0,0,1,0,Wikipedia,,2026-04-20,2026-04-20
+Nelson Research,1,0,1,0,0,Wikipedia,,2026-04-17,2026-04-17
+Victory Enterprises,1,0,1,0,0,Wikipedia,R,2026-04-15,2026-04-15
+Rattan Poling Service,1,0,1,0,0,Wikipedia,,2026-03-28,2026-03-28
+Echelon Insights/Tusk Strategies,1,0,1,0,0,VoteHub,,2026-03-26,2026-03-26
+Impact Research/BSP Research,1,0,0,0,1,Silver Bulletin; VoteHub,,2026-03-20,2026-03-20
+Global Eye Magazine,1,0,0,1,0,Wikipedia,,2026-03-15,2026-03-15
+Nexus Strategies/ Strategic Partners Solutions,1,1,0,0,0,VoteHub; Wikipedia,,2026-03-09,2026-03-09
+Politico / UC Berkeley / TrueDot,1,0,1,0,0,Wikipedia,,2026-03-03,2026-03-03
+Victory Phones,1,1,0,0,0,Wikipedia,R,2026-02-25,2026-02-25
+"HighGround, Inc.",1,0,0,1,0,Wikipedia,,2026-02-23,2026-02-23
+Community Pulse/Molitico,1,0,0,1,0,Wikipedia,D,2026-02-20,2026-02-20
+Public Sentiment Institute,1,0,1,0,0,VoteHub,,2026-02-20,2026-02-20
+AM Research Group,1,0,0,1,0,Wikipedia,R,2026-02-02,2026-02-02
+J Wallin Opinion Research,1,0,1,0,0,Wikipedia,,2026-02-01,2026-02-01
+RBI Strategies & Research,1,0,1,0,0,Wikipedia,D,2026-01-29,2026-01-29
+Osage Research,1,0,1,0,0,Wikipedia,R,2026-01-23,2026-01-23
+Plymouth Union Public Research,1,1,0,0,0,Wikipedia,R,2026-01-15,2026-01-15
+InsiderAdvantage (R)/ Rosetta Stone,1,0,1,0,0,Wikipedia,R,2025-12-19,2025-12-19
+Echelon Insights/GBAO,1,0,0,0,1,Silver Bulletin; VoteHub,,2025-12-16,2025-12-16
+CivicLens Research,1,0,1,0,0,Wikipedia,,2025-12-16,2025-12-16
+Data Targeting,1,0,1,0,0,VoteHub; Wikipedia,R,2025-12-08,2025-12-08
+GQR Research,1,0,0,1,0,Wikipedia,D,2025-11-23,2025-11-23
+Gravis Marketing,1,0,0,1,0,Wikipedia,,2025-11-12,2025-11-12
+Cyngal,1,1,0,0,0,VoteHub,,2025-11-11,2025-11-11
+"Stand Up Action, Inc",1,0,0,1,0,Wikipedia,,2025-11-06,2025-11-06
+Washington Post/ABC News/Ipsos,1,0,0,0,1,VoteHub,,2025-10-28,2025-10-28
+Meeting Street Research,1,0,0,1,0,Wikipedia,R,2025-10-23,2025-10-23
+Bold Decision,1,0,1,0,0,Wikipedia,,2025-10-21,2025-10-21
+Winthrop University,1,0,1,0,0,Wikipedia,,2025-10-19,2025-10-19
+Bowling Green State University,1,0,1,0,0,VoteHub,,2025-10-14,2025-10-14
+Hunt Research,1,1,0,0,0,VoteHub; Wikipedia,R,2025-10-10,2025-10-10
+Frederick Polls,1,0,1,0,0,Wikipedia,D,2025-09-25,2025-09-25
+NAIP,1,0,0,0,1,Silver Bulletin,REP,2025-09-13,2025-09-13
+i360,1,0,0,0,1,Silver Bulletin,REP,2025-09-12,2025-09-12
+URI / YouGov,1,0,1,0,0,Wikipedia,,2025-08-18,2025-08-18
+True Dot/ Politico,1,0,1,0,0,Wikipedia,,2025-08-12,2025-08-12
+ALPolitics,1,0,0,1,0,Wikipedia,,2025-07-31,2025-07-31
+Lester & Associates,1,0,0,1,0,Wikipedia,D,2025-07-24,2025-07-24
+American Directions,1,0,1,0,0,VoteHub,,2025-07-08,2025-07-08
+National Republican Senatorial Committee,1,1,0,0,0,VoteHub,REP,2025-07-07,2025-07-07
+KAConsulting LLC,1,0,1,0,0,VoteHub,REP,2025-06-27,2025-06-27
+G1 Research,1,1,0,0,0,Wikipedia,,2025-06-20,2025-06-20
+Pantheon Insight/HarrisX,1,0,1,0,0,VoteHub,,2025-05-13,2025-05-13
+TrueDot.ai,1,0,0,0,1,VoteHub,,2025-04-27,2025-04-27
+Internal Republican Party poll,1,1,0,0,0,Wikipedia,,2025-04-20,2025-04-20
+Brad Parscale,1,1,0,0,0,Wikipedia,R,2025-04-20,2025-04-20
+RealClear Opinion Research,1,0,0,0,1,Silver Bulletin; VoteHub,,2025-04-12,2025-04-12
+First Tuesday Strategies,1,0,1,0,0,Wikipedia,R,2025-03-21,2025-03-21
+Lake Research Partners (D)/ Slingshot Strategies,1,1,0,0,0,Wikipedia,D,2025-03-10,2025-03-10
+National Research,1,0,1,0,0,Wikipedia,R,2025-02-19,2025-02-19
+Data Orbital,1,0,1,0,0,Wikipedia,,2025-01-20,2025-01-20
+Healthier Colorado (D)/ Magellan Strategies,1,0,1,0,0,Wikipedia,D/R,2024-12-09,2024-12-09
+USC / CSU Long Beach / Cal Poly Pomona,1,0,1,0,0,Wikipedia,,2024-09-25,2024-09-25
+Research America,1,0,1,0,0,VoteHub,,2024-09-09,2024-09-09
+Vote TXT,1,0,1,0,0,Wikipedia,,2023-05-19,2023-05-19
