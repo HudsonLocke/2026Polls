@@ -5,3 +5,9 @@ __pycache__/
 *.pyc
 cache/
 cache_mkt/
+paper/
+README.md
+HOW_THIS_DATA_WAS_GATHERED.txt
+analysis/
+scripts/
+source_data/
